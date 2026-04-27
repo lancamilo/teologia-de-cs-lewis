@@ -1,6 +1,10 @@
 # Teologia de C. S. Lewis em Cristianismo Puro e Simples
 Projeto prático da DIO explorando o livro Cristianismo Puro e Simples de C. S. Lewis, com foco em apologética e teologia moral.
 
+[NotebookLM](https://notebooklm.google.com/notebook/7d53e291-7279-452b-90db-0f584789cabe)
+
+---
+
 ## 📌 Contexto e Objetivos
 Este repositório foi criado como parte do desafio da DIO **"Acelere sua Aprendizagem com IA"**, utilizando o NotebookLM para organizar estudos sobre o livro *Cristianismo Puro e Simples* de C. S. Lewis.  
 O objetivo é compreender como Lewis apresenta a fé cristã de forma racional e prática, explorando áreas como apologética, teologia moral e fundamentos da fé.
