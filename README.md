@@ -45,7 +45,7 @@ Perguntas feitas ao NotebookLM:
 ### 🔹 Prompts Reutilizáveis - Cartões
 - "A Arquitetura da Razão e Imaginação em C. S. Lewis"  
 - "C. S. Lewis: A Forja Teológica na II Guerra Mundial"  
-- "Compare a visão de fé em Lewis com a de outros teólogos contemporâneos."  
+- "Fundamentos e Conduta na Fé Cristã"  
 
 ### 🔹 Tabela de dados: Análise de Teologia, Recursos Bíblicos e Obras de C.S. Lewis
 
