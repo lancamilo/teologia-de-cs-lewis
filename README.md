@@ -42,9 +42,7 @@ Perguntas feitas ao NotebookLM:
 - **Parte IV – Trindade:** Reflexão sobre a natureza de Deus e sua relação com o ser humano.
 
 ### 🔹 Glossário
-- **Lei da Natureza Humana:** Moral universal percebida por todos os povos.  
-- **Virtudes Cardeais:** Prudência, Justiça, Fortaleza e Temperança.  
-- **Apologética:** Defesa racional da fé cristã.  
+- **Léxico Teológico e Filosófico de C. S. Lewis**
 
 ### 🔹 Prompts Reutilizáveis - Cartões
 - "A Arquitetura da Razão e Imaginação em C. S. Lewis"  
